@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+rasterio
+patchify
+matplotlib
+tensorflow
+scikit-learn
